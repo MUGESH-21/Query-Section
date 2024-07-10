@@ -1,0 +1,39 @@
+/* tr{
+     border: 2px solid black; 
+    border-bottom: 2px solid black;
+    padding-bottom: 1%;
+}
+table{
+    border: 2px solid black; 
+    padding: 2%;
+} */
+
+.qn1 ul li{
+    display: inline-block;
+}
+.id ul{
+    align-items: right;
+}
+ul{
+    border-bottom: 2px solid rgb(213, 207, 207);
+    padding: 0px 0px 0px 0px ;
+}
+li:hover{
+    cursor: pointer;
+}
+.all{
+    width: 45%;
+    margin: 3%;
+    border: 2px solid black; 
+    border-radius: 5px;
+}
+.qn1{
+    margin: 5%
+}
+h2{
+    margin-left: 4%;
+}
+button{
+    border-radius: 50%;
+    margin-left: 500px;
+}
